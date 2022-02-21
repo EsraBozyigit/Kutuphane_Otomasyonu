@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane", "Kutuphane\Kutuphane.csproj", "{49D5888B-1C40-4B03-8637-54F64D2BC4F2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KutuphaneOtomasyonuSetup", "KutuphaneOtomasyonuSetup\KutuphaneOtomasyonuSetup.vdproj", "{A31F7155-F99E-4060-98B1-71B6EC68DBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D5888B-1C40-4B03-8637-54F64D2BC4F2}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{49D5888B-1C40-4B03-8637-54F64D2BC4F2}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{49D5888B-1C40-4B03-8637-54F64D2BC4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D5888B-1C40-4B03-8637-54F64D2BC4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31F7155-F99E-4060-98B1-71B6EC68DBAF}.Debug|Any CPU.ActiveCfg = Release
+		{A31F7155-F99E-4060-98B1-71B6EC68DBAF}.Debug|Any CPU.Build.0 = Release
+		{A31F7155-F99E-4060-98B1-71B6EC68DBAF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02130B8F-C8CF-4B8A-A922-67087CB124A6}
+	EndGlobalSection
+EndGlobal
